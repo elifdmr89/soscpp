@@ -9,7 +9,7 @@ char zemin[5][5] = {{'1','|','2','|','3'},
   
 char oyuncu[2] = {'S','O'};  
   
-int yer = 0;  
+int yer = 4;  
   
 int tur;  
   
